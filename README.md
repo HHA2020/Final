@@ -1,14 +1,16 @@
+Hein Htet Aung - 6540072
+
 # How to Test the App
 
 ## Student Information
 
-- **Student Name:**
+- **Student Name:*s1*
 - **Student ID:**
 
 ## Test Credentials
 
-- **Username / Email:**
-- **Password:**
+- **Username / Email:*s1@gmail.com*
+- **Password:*s1best*
 
 ## Prerequisites
 
