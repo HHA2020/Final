@@ -20,11 +20,13 @@ Hein Htet Aung - 6540072
 
 ### 1. Backend Setup (`next-backend/`)
 
--
+- npm install
+- npm run dev
 
 ### 2. Frontend Setup (`react-frontend/`)
 
--
+- npm install
+- npm run dev
 
 ### 3. Testing Walkthrough
 
